@@ -27,6 +27,7 @@ Principal development has been done in Centos 7 with python 3.4 and Errbot versi
 
 * Activate the [Icinga2 API](https://docs.icinga.com/icinga2/snapshot/doc/module/icinga2/chapter/icinga2-api)
 * Install [Errbot](http://errbot.io/en/latest/user_guide/setup.html) 
+* BotFramework backend (to connect with Skype): https://github.com/latuannetnam/errbot-backend-botframework
 
 ## Plugin installation
 * Assuming your errbot installation directory is /home/errbot, clone or pull the icinga2bot files to /home/errbot/plugins
